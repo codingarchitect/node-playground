@@ -1,0 +1,15 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "description": "nodejs playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-server": "node server.js"
+  },
+  "author": "sendhil.r@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
+}
